@@ -1,0 +1,10 @@
+let String ="Hello World";
+let Number = 500;
+let Boolean =true;
+let Null = null;
+let Undefined =undefined;
+console.log("Hello world:",typeof String);
+console.log("500:",typeof Number);
+console.log("true:",typeof Boolean);
+console.log("null:",typeof Null);
+console.log("undefined:",typeof Undefined);

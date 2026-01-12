@@ -1,0 +1,11 @@
+## workshop1.1
+สร้างตัวแปรเก็บค่า ชื่อ อายุ สาขา และแสดงออกทาง console
+
+## Workshop1.2
+สร้างตัวแปรเก็บค่า String Number Boolean Null Undefined และใช้Type of ตรวจสอบ
+
+## Workshop1.3
+ประกาศตัวแปรคะแนนสอบ3วิชา และ คำนวนคะแนน หาค่าเฉลี่ย และ คะแนนมากกว่า80เป็นtrue
+
+##Workshop1.4 
+ตั้งค่าusername admin password และอายุ ใช้ if else if elseและconsole.log ตามเงื่อนไข
